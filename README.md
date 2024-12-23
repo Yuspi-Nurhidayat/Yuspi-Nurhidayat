@@ -29,7 +29,7 @@ Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti
 
 
 
-
+##
 - Staff Administrasi Pemerintahan- Magang
 - Kantor Kecamatan Ujungberung – Kota Bandung , Jawa Barat	(Juli 2022 – September 2022)
 - Jobdesk :
