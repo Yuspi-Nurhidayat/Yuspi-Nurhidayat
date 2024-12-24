@@ -40,10 +40,11 @@ Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti
 ##
 - Data Entry- Freelance (projek)
 - Sribulancer -	Mei 2024– Desember 2024
-  •	Membuat catatan dan melakukan briefing dengan klien. 
-  •	Mencatat dan memasukkan semua data secara akurat untuk menjaga integritas data client sesuai dengan arahan menggunakan MS. Excel 
-  •	Memproses dan menganalisis data menggunakan MS. Excel (Vloookup, Hlookup, Pivot, dll) 
-  •	Buat laporan perkiraan tentang hasil kerja sama dengan klien.
+- Jobdesk:
+  -Membuat catatan dan melakukan briefing dengan klien. 
+  -Mencatat dan memasukkan semua data secara akurat untuk menjaga integritas data client sesuai dengan arahan menggunakan MS. Excel 
+  -Memproses dan menganalisis data menggunakan MS. Excel (Vloookup, Hlookup, Pivot, dll) 
+  -Buat laporan perkiraan tentang hasil kerja sama dengan klien.
 
 
 ## Pendidikan
