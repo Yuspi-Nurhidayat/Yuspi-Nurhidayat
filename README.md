@@ -50,9 +50,9 @@ Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti
 ## Pendidikan
 - S1 Manajemen
 - Universitas Informatika dan Bisnis Indonesia – Bandung, Jawa Barat
-- Konsentrasi Manajemen Sumber Daya Manusia
-- Meraih IPK 3,54/ 4,00 dengan predikat Sangat memuaskan
-- Ikut berkontribusi dalam berbagai kegiatan dan pelatihan, seperti pelatihan computer, webinar dan kepanitiaan.
+  - Konsentrasi Manajemen Sumber Daya Manusia
+  - Meraih IPK 3,54/ 4,00 dengan predikat Sangat memuaskan
+  - Ikut berkontribusi dalam berbagai kegiatan dan pelatihan, seperti pelatihan computer, webinar dan kepanitiaan.
 
 
 ## Kontak
