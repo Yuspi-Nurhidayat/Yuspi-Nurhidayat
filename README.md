@@ -16,6 +16,16 @@ Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti
 - **Database**: MySQL,HeidiSQL
 
 ## Pengalaman Kerja
+- Data Entry- Freelance (projek)
+- Sribulancer -	Mei 2024– Desember 2024
+- Jobdesk:
+  - Membuat catatan dan melakukan briefing dengan klien. 
+  - Mencatat dan memasukkan semua data secara akurat untuk menjaga integritas data client sesuai dengan arahan menggunakan MS. Excel 
+  - Memproses dan menganalisis data menggunakan MS. Excel (Vloookup, Hlookup, Pivot, dll) 
+  - Buat laporan perkiraan tentang hasil kerja sama dengan klien.
+ 
+    
+##
 - Staff Project Development Strategic Marketing- Pekerja Lepas (projek)
 - KCP Bank CTBC Indonesia– Bandung, Jawa Barat	(Februari 2022– Juni 2022)
 - Jobdesk :
@@ -37,15 +47,6 @@ Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti
   - Mengelola korespondensi masuk dan keluar dokumen masyarakat, data pemerintahan dan surat perizinan hukum
   - Membantu dan mengelola inventaris kantor , serta membuat dan mengatur jadwal kegiatan pemerintahan
   - Membangun komunikasi dan membantu kegiatan sosialisasi pemerintahan kepada masyarakat
-##
-- Data Entry- Freelance (projek)
-- Sribulancer -	Mei 2024– Desember 2024
-- Jobdesk:
-  - Membuat catatan dan melakukan briefing dengan klien. 
-  - Mencatat dan memasukkan semua data secara akurat untuk menjaga integritas data client sesuai dengan arahan menggunakan MS. Excel 
-  - Memproses dan menganalisis data menggunakan MS. Excel (Vloookup, Hlookup, Pivot, dll) 
-  - Buat laporan perkiraan tentang hasil kerja sama dengan klien.
-
 
 ## Pendidikan
 - S1 Manajemen
